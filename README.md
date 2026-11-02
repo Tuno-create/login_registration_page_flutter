@@ -1,4 +1,4 @@
-# flutter\_login\_app\_johncena
+# flutter_login_app_johncena
 
 A new Flutter project.
 
@@ -16,17 +16,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
-
-\## App Screenshots
-
-
+## App Screenshots
 
 | Login Page | Registration Page |
-
 | :---: | :---: |
-
-| !\[Login Page](screenshots/login.png) | !\[Register Page](screenshots/register.png) |
-
-
-
+| ![Login Page](screenshots/login.png) | ![Register Page](screenshots/register.png) |
